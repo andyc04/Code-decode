@@ -1,0 +1,1 @@
+Interprets a code as a txt file and translates text into binary, using a xls file as a dictionary. The code then translates it back from binary to text using the same dictionary.
